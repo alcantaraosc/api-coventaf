@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzDBmDOiSMBf89CByZAuOYe6aEYCFYr3OFROSAUmmrXryhtfzGrMnu7q8M9xKlOjQR4EcpHePfdoFrua9LpqVA==",
+  "success": true,
+  "projectFilePath": "J:\\PROYECTO\\API\\Api.COVENTAF\\Api.Model\\Api.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

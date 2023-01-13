@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Context\Api.Context.csproj" />
+    <ProjectReference Include="..\Api.Helpers\Api.Helpers.csproj" />
+    <ProjectReference Include="..\Api.Model\Api.Model.csproj" />
+  </ItemGroup>
+
+</Project>
